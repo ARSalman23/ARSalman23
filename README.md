@@ -21,12 +21,12 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **4th-year Computer Science and Engineering** student at Metropolitan University, Sylhet.
-* 💼 Currently working as a **Support Instructor** at Progsity.
-* 🏆 Serving as the **ACM Coordinator** for the Metropolitan University CSE Society.
-* 🚀 Passionate about **Competitive Programming** (ICPC '24 & '25 participant) with a strong grasp of **Data Structures and Algorithms (DSA)**.
-* 🧠 Exploring the depths of **Machine Learning** and **Artificial Intelligence**, including research on software vulnerability detection.
-* 🐈 When I'm not coding or organizing CP Boosters, I'm probably hanging out with my cat, **Simba**!
+* **4th-year Computer Science and Engineering** student at Metropolitan University, Sylhet.
+* Currently working as a **Support Instructor** at Progsity.
+* Serving as the **ACM Coordinator** for the Metropolitan University CSE Society.
+* Passionate about **Competitive Programming** (ICPC '24 & '25 participant) with a strong grasp of **Data Structures and Algorithms (DSA)**.
+* Exploring the depths of **Machine Learning** and **Artificial Intelligence**, including research on software vulnerability detection.
+* When I'm not coding or organizing CP Boosters, I'm probably hanging out with my cat, **Simba**!
 
 ---
 
