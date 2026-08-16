@@ -24,9 +24,9 @@
 * **4th-year Computer Science and Engineering** student at Metropolitan University, Sylhet.
 * Currently working as a **Support Instructor** at Progsity.
 * Serving as the **ACM Coordinator** for the Metropolitan University CSE Society.
-* Passionate about **Competitive Programming** (ICPC '24 & '25 participant) with a strong grasp of **Data Structures and Algorithms (DSA)**.
+* **Contest Organizer:** Successfully organized multiple **MU CP Booster** contests, the **IMUPC** contest, and various programming contests on behalf of **Progsity**.
+* Passionate about **Competitive Programming** with participation in **ICPC '24 & '25** and multiple **Intra-University Programming Contests (IUPC)**, backed by a strong grasp of **Data Structures and Algorithms (DSA)**.
 * Exploring the depths of **Machine Learning** and **Artificial Intelligence**, including research on software vulnerability detection.
-* When I'm not coding or organizing CP Boosters, I'm probably hanging out with my cat, **Simba**!
 
 ---
 
